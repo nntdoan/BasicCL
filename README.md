@@ -1,4 +1,4 @@
-"# BasicCL: Implementations of some basic algorithms in CL/NLP" 
+# BasicCL: Implementations of some basic algorithms in CL/NLP
 
 Implementations are meant for "toy problems", of which the results are for us to check our "pen-and-paper" solutions against. No guarantee entails.
 
